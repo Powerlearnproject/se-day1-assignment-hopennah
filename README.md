@@ -31,7 +31,6 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 Waterfall follows a linear, predictive approach with emphasis on documentation, while Agile adopts an iterative, flexible approach prioritizing collaboration and customer feedback.
 Waterfall suitable for: Safety-critical systems, Fixed requirements, Regulated industrie and Simple projects while Agile suitable for:- Innovative products, Rapid prototyping, Complex systems,Changing requirements
 
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developers design and develop applications, while QA Engineers test and validate, and Project Managers oversee planning, execution, and delivery, ensuring timely and quality software delivery.
 
