@@ -14,7 +14,7 @@ Ensuring High-Quality Software,Enhancing Efficiency and Productivity, Scalabilit
 From artificial intelligence (AI) and cloud computing to blockchain and the Internet of Things (IoT), software engineering fuels innovation across various industries, including healthcare, finance, and entertainment.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
- Waterfall Methodology (1970s), Linear phases: requirements, design, implementation, testing, maintenance, Structured approach replaced ad-hoc development
+1. Waterfall Methodology (1970s), Linear phases: requirements, design, implementation, testing, maintenance, Structured approach replaced ad-hoc development
 
 2. Object-Oriented Programming (OOP) & Agile (1980s-1990s)  OOP revolutionized software design, Agile emphasized iteration, flexibility, and customer collaboration
 
@@ -34,8 +34,8 @@ Waterfall suitable for: Safety-critical systems, Fixed requirements, Regulated i
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developers design and develop applications, while QA Engineers test and validate, and Project Managers oversee planning, execution, and delivery, ensuring timely and quality software delivery.
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-Integrated Development Environments (IDEs) like Eclipse, Visual Studio, and IntelliJ IDEA boost productivity and efficiency in software development. Version Control Systems (VCS) such as Git, SVN, and Mercurial manage code changes, track versions, and ensure data integrity. Combining IDEs and VCS enables efficient development, collaboration, and maintenance of high-quality software applications 
+Discuss the importance of Integrated Development Environments and Version Control Systems in the software development process. Give examples of each.
+Integrated Development Environments (IDEs) like Eclipse, Visual Studio boost productivity and efficiency in software development. Version Control Systems (VCS) such as Git, SVN manage code changes, track versions, and ensure data integrity. Combining IDEs and VCS enables efficient development, collaboration, and maintenance of high-quality software applications 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Software engineers face challenges like complex codebases, tight deadlines, and scalability issues. To overcome these, they can break down tasks, use agile methodologies, automate testing, collaborate through code reviews, and stay updated with industry trends.
