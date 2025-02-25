@@ -1,6 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15569930&assignment_repo_type=AssignmentRepo)
 # SE_Day1
+
 Software Engineering Day1 Assignment
+
 
 #Part 1: Introduction to Software Engineering
 
@@ -50,6 +52,7 @@ Importance of Testing:
 2. Reduces errors and defects.
 3. Enhances user satisfaction.
 4. Guarantees a high-quality software product.
+
 
 #Part 2: Introduction to AI and Prompt Engineering
 
